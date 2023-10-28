@@ -225,3 +225,217 @@
   body: '_event_media__cfa5583e-9235-44b4-98da-a16c2899e9c6',
   from: '5492612067979'
 }
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492612067979@s.whatsapp.net',
+    fromMe: false,
+    id: '3AD8F7A2D36CF25BED0E',
+    participant: undefined
+  },
+  messageTimestamp: 1698511703,
+  pushName: 'Milagros',
+  broadcast: false,
+  message: Message {
+    conversation: 'como a qué hora',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'como a qué hora',
+  from: '5492612067979'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492612067979@s.whatsapp.net',
+    fromMe: false,
+    id: '3A26050EE3E065C64058',
+    participant: undefined
+  },
+  messageTimestamp: 1698511748,
+  pushName: 'Milagros',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'si ma', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'si ma',
+  from: '5492612067979'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492612067979@s.whatsapp.net',
+    fromMe: false,
+    id: '3A53D3C4B41564DA443F',
+    participant: undefined
+  },
+  messageTimestamp: 1698511751,
+  pushName: 'Milagros',
+  broadcast: false,
+  message: Message {
+    conversation: '😭😭😭😭😭',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '😭😭😭😭😭',
+  from: '5492612067979'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492612067979@s.whatsapp.net',
+    fromMe: false,
+    id: '3A89DA448235E0F9A9E8',
+    participant: undefined
+  },
+  messageTimestamp: 1698511781,
+  pushName: 'Milagros',
+  broadcast: false,
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    viewOnceMessageV2: FutureProofMessage { message: [Message] }
+  },
+  body: '',
+  from: '5492612067979'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492612067979@s.whatsapp.net',
+    fromMe: false,
+    id: '3A93A8478761ABD8716D',
+    participant: undefined
+  },
+  messageTimestamp: 1698511794,
+  pushName: 'Milagros',
+  broadcast: false,
+  message: Message {
+    audioMessage: AudioMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.7117-24/11932407_707764184560389_4133911776257945495_n.enc?ccb=11-4&oh=01_AdQaH1LnXBzlD8h60qemHPaaNp39WVeG57Jfr-WcK_kBqw&oe=6564B366&_nc_sid=000000&mms3=true',
+      mimetype: 'audio/ogg; codecs=opus',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      seconds: 3,
+      ptt: true,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7117-24/11932407_707764184560389_4133911776257945495_n.enc?ccb=11-4&oh=01_AdQaH1LnXBzlD8h60qemHPaaNp39WVeG57Jfr-WcK_kBqw&oe=6564B366&_nc_sid=000000',
+      mediaKeyTimestamp: [Long],
+      streamingSidecar: [Uint8Array],
+      waveform: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_voice_note__93216a58-176d-4e82-b4bf-7e70669e5f91',
+  from: '5492612067979'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492612067979@s.whatsapp.net',
+    fromMe: false,
+    id: '3A619A028A8F2AAE95B9',
+    participant: undefined
+  },
+  messageTimestamp: 1698511828,
+  pushName: 'Milagros',
+  broadcast: false,
+  message: Message {
+    conversation: 'no dale',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'no dale',
+  from: '5492612067979'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492612067979@s.whatsapp.net',
+    fromMe: false,
+    id: '3A9B035C4032189C7BC8',
+    participant: undefined
+  },
+  messageTimestamp: 1698511831,
+  pushName: 'Milagros',
+  broadcast: false,
+  message: Message {
+    conversation: 'a que hora volves',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'a que hora volves',
+  from: '5492612067979'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492612067979@s.whatsapp.net',
+    fromMe: false,
+    id: '3A95B5C1ECDD21F52EF7',
+    participant: undefined
+  },
+  messageTimestamp: 1698511832,
+  pushName: 'Milagros',
+  broadcast: false,
+  message: Message {
+    conversation: 'aprox',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'aprox',
+  from: '5492612067979'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492612067979@s.whatsapp.net',
+    fromMe: false,
+    id: '3A9AD10FEDDDCDB15C4B',
+    participant: undefined
+  },
+  messageTimestamp: 1698511858,
+  pushName: 'Milagros',
+  broadcast: false,
+  message: Message {
+    conversation: 'tipo 5?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  status: 4,
+  body: 'tipo 5?',
+  from: '5492612067979'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492612067979@s.whatsapp.net',
+    fromMe: false,
+    id: '3A393F05D3735EF1F312',
+    participant: undefined
+  },
+  messageTimestamp: 1698511885,
+  pushName: 'Milagros',
+  broadcast: false,
+  message: Message {
+    conversation: 'dijeron q a las 5, 6 bajaba',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'dijeron q a las 5, 6 bajaba',
+  from: '5492612067979'
+}
