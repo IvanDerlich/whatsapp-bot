@@ -5,12 +5,8 @@
     "main": "app.js",
     "scripts": {
         "pre-copy": "cd .. && npm run  copy.lib base-baileys-memory",
-<<<<<<< HEAD
         "start": "node app.js",
         "uninstall": "rm -R node_modules package-lock.json"
-=======
-        "start": "node app.js"
->>>>>>> master
     },
     "keywords": [],
     "dependencies": {
