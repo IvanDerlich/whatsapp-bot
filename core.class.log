@@ -1,0 +1,144 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493484365436@s.whatsapp.net',
+    fromMe: false,
+    id: '5CC16161040D900B72FC3EDD1E3B1E35',
+    participant: undefined
+  },
+  messageTimestamp: 1698415615,
+  pushName: 'Naza Tarchini 🤝',
+  broadcast: false,
+  message: Message {
+    conversation: 'Jajajaja',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Jajajaja',
+  from: '5493484365436'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492613355726@s.whatsapp.net',
+    fromMe: false,
+    id: '9335D45EFB92A95B48AD014D17332DFC',
+    participant: undefined
+  },
+  messageTimestamp: 1698416207,
+  pushName: '✷ ꧁☬ 𝒩𝒶𝓋𝒾  ࿐  ✷',
+  broadcast: false,
+  message: Message {
+    conversation: '!# hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '!# hola',
+  from: '5492613355726'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_d2663b9a-88b0-4515-b446-bea10d180800',
+  keyword: 'key_3e170c21-acf1-4812-a6ba-81e3a1366e31',
+  answer: "🤖 👋 Hola bienvenido a este *Chatbot* ,  '👋 ¡Saludos! Soy Maia Doroshenko, soy *backend Developer*, y te doy la bienvenida.' ",
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'bef02ba5d643790f7630fa7e600c1d3c'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c4c5171e-86cb-4f0f-b44b-202cd3193a7f',
+  keyword: 'ans_d2663b9a-88b0-4515-b446-bea10d180800',
+  answer: 'Permíteme compartirte información sobre mí y mis perfiles en línea:\n' +
+    'Ingresa el número de la opción que desees:\n' +
+    ' 1️⃣💻 *linkedin* para conectarte en LinkedIn\n' +
+    '2️⃣🔗 *github* para encontrar mi perfil de GitHub\n' +
+    '3️⃣🌐 *web* para visitar mi sitio web',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'd47d65e604110ffd0170cbff652f20ce'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492613355726@s.whatsapp.net',
+    fromMe: false,
+    id: '9E4C814FBE430B3C3E1328A6B7BA6C2E',
+    participant: undefined
+  },
+  messageTimestamp: 1698416211,
+  pushName: '✷ ꧁☬ 𝒩𝒶𝓋𝒾  ࿐  ✷',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  status: 4,
+  body: 'Hola',
+  from: '5492613355726'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492613355726@s.whatsapp.net',
+    fromMe: false,
+    id: 'BF84F58064AAF90AD128CFB5FD5CBAC7',
+    participant: undefined
+  },
+  messageTimestamp: 1698416219,
+  pushName: '✷ ꧁☬ 𝒩𝒶𝓋𝒾  ࿐  ✷',
+  broadcast: false,
+  message: Message {
+    conversation: 'Genial',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Genial',
+  from: '5492613355726'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492613355726@s.whatsapp.net',
+    fromMe: false,
+    id: '6D400F0E2E9F357ED631C35EC62472A3',
+    participant: undefined
+  },
+  messageTimestamp: 1698416226,
+  pushName: '✷ ꧁☬ 𝒩𝒶𝓋𝒾  ࿐  ✷',
+  broadcast: false,
+  message: Message {
+    conversation: 'Subiste los cambios al repo?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Subiste los cambios al repo?',
+  from: '5492613355726'
+}
