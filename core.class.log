@@ -1,0 +1,227 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492613355726@s.whatsapp.net',
+    fromMe: false,
+    id: 'D6FDF9C412BC65777BA86A52C0AA07CA',
+    participant: undefined
+  },
+  messageTimestamp: 1698510678,
+  pushName: '✷ ꧁☬ 𝒩𝒶𝓋𝒾  ࿐  ✷',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Petera',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Petera',
+  from: '5492613355726'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492613355726@s.whatsapp.net',
+    fromMe: false,
+    id: '7E5231F0BE7E2CF0B18766B0F290779F',
+    participant: undefined
+  },
+  messageTimestamp: 1698510680,
+  pushName: '✷ ꧁☬ 𝒩𝒶𝓋𝒾  ࿐  ✷',
+  broadcast: false,
+  message: Message {
+    conversation: 'Puta',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Puta',
+  from: '5492613355726'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492613355726@s.whatsapp.net',
+    fromMe: false,
+    id: '06C5AEFF98B381C016BBB2D2FD6C6023',
+    participant: undefined
+  },
+  messageTimestamp: 1698510683,
+  pushName: '✷ ꧁☬ 𝒩𝒶𝓋𝒾  ࿐  ✷',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  status: 4,
+  body: 'Hola',
+  from: '5492613355726'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_30a30785-5f20-4976-846c-95a9774f7337',
+  keyword: 'key_1e22a93a-9ded-4de6-9a7b-0ed6725cf396',
+  answer: "🤖 👋 Hola bienvenido a este *Chatbot* ,  '👋 ¡Saludos! Soy Maia Doroshenko, soy *backend Developer*, y te doy la bienvenida.' ",
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '8414219e684ff4da8c3cf6c04b7584f9'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ae1c2b59-6358-46f7-9259-9f5e1415274b',
+  keyword: 'ans_30a30785-5f20-4976-846c-95a9774f7337',
+  answer: 'Permíteme compartirte información sobre mí y mis perfiles en línea:\n' +
+    'Ingresa el número de la opción que desees:\n' +
+    ' 1️⃣  *linkedin* para conectarte en LinkedIn💻\n' +
+    '2️⃣  *github* para encontrar mi perfil de GitHub 🔗\n' +
+    '3️⃣  *web* para visitar mi sitio web 🌐',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '29425ec33b6951ab238113f2badba163'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492613355726@s.whatsapp.net',
+    fromMe: false,
+    id: '81E9BEE5929CFCFB40AE5A3F95B7F67C',
+    participant: undefined
+  },
+  messageTimestamp: 1698510691,
+  pushName: '✷ ꧁☬ 𝒩𝒶𝓋𝒾  ࿐  ✷',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '5492613355726'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ecd30adf-638e-416a-8a6b-128938dc2f43',
+  keyword: 'key_4560ee10-4e66-4eb7-8746-c1ceadf30751',
+  answer: '🤝 Conéctate conmigo en LinkedIn\n' +
+    'https://www.linkedin.com/in/maia-doroshenko/\n' +
+    '\n' +
+    '*4 Para siguiente paso.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '65de0434dafd6772ae0ce864b13c6886'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492613355726@s.whatsapp.net',
+    fromMe: false,
+    id: '8C744B19151690D268A4A3F3EBE7ABF2',
+    participant: undefined
+  },
+  messageTimestamp: 1698510697,
+  pushName: '✷ ꧁☬ 𝒩𝒶𝓋𝒾  ࿐  ✷',
+  broadcast: false,
+  message: Message {
+    conversation: '4',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '4',
+  from: '5492613355726'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492612067979@s.whatsapp.net',
+    fromMe: false,
+    id: '3A44E4AEB34CA512DACC',
+    participant: undefined
+  },
+  messageTimestamp: 1698510927,
+  pushName: 'Milagros',
+  broadcast: false,
+  message: Message {
+    conversation: 'y llegamos ma',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'y llegamos ma',
+  from: '5492612067979'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492612067979@s.whatsapp.net',
+    fromMe: false,
+    id: '3AA12833E59B3DC7FEF8',
+    participant: undefined
+  },
+  messageTimestamp: 1698510934,
+  pushName: 'Milagros',
+  broadcast: false,
+  message: Message {
+    imageMessage: ImageMessage {
+      interactiveAnnotations: [],
+      scanLengths: [Array],
+      url: 'https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m234/up-oil-image-9183d105-1177-4731-927e-8c984ace1ff2?ccb=9-4&oh=01_AdS0n3d2zl2T5izELC_RhU36PBXmilO-4Tis3ob_amzcpQ&oe=6564A177&_nc_sid=000000&mms3=true',
+      mimetype: 'image/jpeg',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      height: 1280,
+      width: 720,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/o1/v/t62.7118-24/f1/m234/up-oil-image-9183d105-1177-4731-927e-8c984ace1ff2?ccb=9-4&oh=01_AdS0n3d2zl2T5izELC_RhU36PBXmilO-4Tis3ob_amzcpQ&oe=6564A177&_nc_sid=000000',
+      mediaKeyTimestamp: [Long],
+      jpegThumbnail: [Uint8Array],
+      firstScanSidecar: [Uint8Array],
+      firstScanLength: 10748,
+      scansSidecar: [Uint8Array],
+      midQualityFileSha256: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_media__cfa5583e-9235-44b4-98da-a16c2899e9c6',
+  from: '5492612067979'
+}
